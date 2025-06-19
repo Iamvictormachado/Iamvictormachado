@@ -131,5 +131,3 @@ Vamos juntos nessa? Conecte-se comigo e explore meus projetos!
   />
 
 </p>
-
----
