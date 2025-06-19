@@ -105,7 +105,7 @@ Vamos juntos nessa? Conecte-se comigo e explore meus projetos!
 ###
 <div align="left">
   
-  <a href="vituviitu" target="_blank">
+  <a href="https://discord.com/users/vituviitu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/iamvictormachado" target="_blank">
